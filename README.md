@@ -4,7 +4,7 @@
 
 ## About me
 
-▪️ 🌱 I’m currently learning **Machine Learning,Data Structures and Algorithms** <img align="right" padding-bottom="20px" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*qdAW1TjCN57h1lbuuzvchg.gif">
+▪️ 🌱 I’m currently learning **Machine Learning,DSA** <img align="right" padding-bottom="20px" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 ▪️ 💻At the moment, I am aiming to upgrade my technical skills and   
