@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Nausheen Shaik</h1>
-<h3 align="center"> An undergrad who's more enthusiastic to learn New Skills and Grow</h3>
+
 
 ## About me
 
