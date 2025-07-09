@@ -20,7 +20,7 @@ develop ML based projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaik-nausheen-b963501ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-nausheen-b963501ba/" height="30" width="40" /></a>
-<a href="https://instagram.com/nausheenshaik.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nausheenshaik.2003" height="30" width="40" /></a>
+<a href="https://instagram.com/nausheenshaik.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nausheenshaik.2003" height="20" width="20" /></a>
 </p>
 
 
